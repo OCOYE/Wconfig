@@ -1,0 +1,2 @@
+# Wconfig
+WordConfig
